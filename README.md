@@ -10,9 +10,10 @@ https://sketchfab.com/3d-models/low-poly-barrett-50cal-sniper-rifle-c271a2867428
 
 Folder Content jest zbyt duży żeby wrzucić go na githuba, link:
 ## Do zrobienia
-- System multiplayer
-- Wybór map
 - Dźwięk
+- Deathmatch
+- Mapa
+- Respawn
 ## Zrobione
 ### 19.10
 - Podstawy poruszania się
