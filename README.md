@@ -23,7 +23,7 @@ Folder Content jest zbyt duży żeby wrzucić go na githuba, link:
 - Odrzut
 - Większy wybór i zmiana broni
 - Lepsze modele broni
-###
+### 8.1
 - Multiplayer
 - HP
 ## Harmonogram pracy
