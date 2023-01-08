@@ -8,7 +8,7 @@ https://sketchfab.com/3d-models/pistol-34ebc77c59eb47ef89e0463469237dac Colt
 https://sketchfab.com/3d-models/low-poly-ppsh-41-submachine-gun-1339b1d923684e93b9fd521f097dd6ad Pepesza
 https://sketchfab.com/3d-models/low-poly-barrett-50cal-sniper-rifle-c271a28674284820a963135fcddce66d Snajperka
 
-Folder Content jest zbyt duży żeby wrzucić go na githuba, link:
+Folder Content jest zbyt duży żeby wrzucić go na githuba, link: https://www.mediafire.com/file/1yfl0wmhezk3suv/Content.zip/file
 ## Do zrobienia
 - Dźwięk
 - Deathmatch
