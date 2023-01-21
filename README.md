@@ -12,11 +12,11 @@ https://sketchfab.com/3d-models/low-poly-barrett-50cal-sniper-rifle-c271a2867428
 Wsad - poruszanie się
 Spacja - skok
 12345 - wybór broni
-J - otwórz sesję do LAN (host)
-K - dołącz do istniejącej sesji (client)
-R - reload
-Mecz trwa 8 minut, wygrywa gracz z najmniejszą ilością śmierci.
-Port 7777
+- J - otwórz sesję do LAN (host)
+- K - dołącz do istniejącej sesji (client)
+- R - reload
+- Mecz trwa 8 minut, wygrywa gracz z najmniejszą ilością śmierci.
+- Port 7777
 ## Do zrobienia
 ## Zrobione
 ### 19.10
