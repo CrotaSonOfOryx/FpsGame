@@ -9,9 +9,9 @@ https://sketchfab.com/3d-models/low-poly-ppsh-41-submachine-gun-1339b1d923684e93
 https://sketchfab.com/3d-models/low-poly-barrett-50cal-sniper-rifle-c271a28674284820a963135fcddce66d Snajperka
 
 ### Sterowanie
-Wsad - poruszanie się
-Spacja - skok
-12345 - wybór broni
+- Wsad - poruszanie się
+- Spacja - skok
+- 12345 - wybór broni
 - J - otwórz sesję do LAN (host)
 - K - dołącz do istniejącej sesji (client)
 - R - reload
