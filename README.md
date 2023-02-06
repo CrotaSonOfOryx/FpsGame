@@ -8,12 +8,16 @@ https://sketchfab.com/3d-models/pistol-34ebc77c59eb47ef89e0463469237dac Colt
 https://sketchfab.com/3d-models/low-poly-ppsh-41-submachine-gun-1339b1d923684e93b9fd521f097dd6ad Pepesza
 https://sketchfab.com/3d-models/low-poly-barrett-50cal-sniper-rifle-c271a28674284820a963135fcddce66d Snajperka
 
-Folder Content jest zbyt duży żeby wrzucić go na githuba, link: https://www.mediafire.com/file/1yfl0wmhezk3suv/Content.zip/file
+### Sterowanie
+- Wsad - poruszanie się
+- Spacja - skok
+- 12345 - wybór broni
+- J - otwórz sesję do LAN (host)
+- K - dołącz do istniejącej sesji (client)
+- R - reload
+- Mecz trwa 8 minut, wygrywa gracz z najmniejszą ilością śmierci.
+- Port 7777
 ## Do zrobienia
-- Dźwięk
-- Deathmatch
-- Mapa
-- Respawn
 ## Zrobione
 ### 19.10
 - Podstawy poruszania się
@@ -26,6 +30,11 @@ Folder Content jest zbyt duży żeby wrzucić go na githuba, link: https://www.m
 ### 8.1
 - Multiplayer
 - HP
+### 20.1
+- Dźwięk
+- Deathmatch
+- Mapa
+- Respawn
 ## Harmonogram pracy
 ### Październik
 - Podstawy i "szkielet" projektu
